@@ -2,7 +2,7 @@ body {
     color:black;
     background:rgb(193, 51, 206);
     margin: 0px;
-   font-family: "Bebas Neue", sans-serif;
+    font-family: "Dancing Script", cursive;
     margin-bottom: 100px;
 }
 
@@ -11,6 +11,7 @@ header{
 border-bottom: solid 2px rgb(255, 15, 223);
  padding: 10px;
  font-size:25px
+
 }
 
 .chamada{
